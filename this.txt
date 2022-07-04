@@ -1,6 +1,10 @@
 fsdfsdfsd
 <<<<<<< HEAD
+<<<<<<< HEAD
 this
 =======
 raw
+>>>>>>> development
+=======
+thisraw
 >>>>>>> development
